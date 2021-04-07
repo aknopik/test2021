@@ -1,0 +1,14 @@
+*{
+    color:red;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.box{
+    padding: 10px;
+    background: #eee; 
+}
